@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "892b002bca4e69c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "15cc56229fb82ddd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e1752ad27eac224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lists/0To Do.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef6c264ed7f4570c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b855524b1c5216a5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1c7d95141a4f0972",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cb33a156360c0ce6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8f039eda2d6eb762",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6e12078db5d3d534",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a518609530f9abf7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Lists/0To Do.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fa2465e6966579bf",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Lists/0To Do.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5afd32cc0852ccb5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Lists/0To Do.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "2e1752ad27eac224",
+  "lastOpenFiles": [
+    "Reminder/0Spending plan.md",
+    "Reminder/0Accounts.md",
+    "Lists/0To Do.md",
+    "Lists/0To Buy.md",
+    "Lists/0Sec.md",
+    "test.md"
+  ]
+}

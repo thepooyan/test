@@ -1,0 +1,10 @@
+- [ ] gather resume code
+- [ ] make resume
+- [ ] second brain
+- [ ] zettelkasten
+- [ ] torrent
+- [ ] tour
+- [ ] chess
+- [ ] blue bank
+- [ ] ubuntu
+- [ ] donwload (tekken)

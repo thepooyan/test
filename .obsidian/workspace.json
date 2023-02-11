@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "ad1dd794b7ab79ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cc229072876afc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "980c870bdc553cd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reminder/0Accounts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffc8ab7feeef74d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reminder/0Accounts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a774ebbcb099da47",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aabd41aa62c68224",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e59863689ccf52f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af33e029135b7533",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34ad7b5a7492f9e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5279fdf8dda5f19e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23a299e6d898a3eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "31e4abfa4fced00a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e14b119033ee61b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reminder/0Accounts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74b891f1752b53b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Reminder/0Accounts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "373245a89b2b6918",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88e6a410676ee9a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Reminder/0Accounts.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ffc8ab7feeef74d0",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Lists/0To Do.md",
+    "Lists/0Sec.md",
+    "Lists/0To Sing.md",
+    "Lists/piano.md",
+    "test.md",
+    "Untitled.md",
+    "Reminder/0Spending plan.md",
+    "Reminder/0Accounts.md",
+    "Reminder/credit.md"
+  ]
+}
